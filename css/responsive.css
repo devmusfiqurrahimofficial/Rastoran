@@ -1,0 +1,558 @@
+@media(max-width:1400px){
+    .menu {
+        flex-basis: 62%;
+    }
+}
+
+@media(max-width:1200px){
+    .sec5-col-left {
+        flex-basis: 100%;
+    }
+    .sec5-col-right {
+        flex-basis: 100%;
+    }
+    .sec-col-1-left {
+        flex-basis: 14%;
+    }
+    .menu {
+        flex-basis: 75%;
+    }
+    .sec-col-1-left img {
+        width: 121%;
+    }
+}
+
+/* desktop view */
+
+@media(max-width:992px){
+
+    .sec5-col-left {
+        flex-basis: 100%;
+    }
+    .sec5-col-right {
+        flex-basis: 100%;
+    }
+    .sec-col-1-left {
+        flex-basis: 13%;
+    }
+    .menu {
+        flex-basis: 73%;
+    }
+    .sec-col-1-left img {
+        width: 100%;
+    }
+    .btn {
+        padding: 11px 15px;
+    }
+    .btn a {
+        font-size: 9px;
+    }
+    .menu ul li a {
+        font-size: 9px;
+    }
+    .sec-2-col-1, .sec-2-col-2, .sec-2-col-3, .sec-2-col-4 {
+        flex-basis: 48%;
+        margin-top: 26px;
+    }
+    .sec3-col-right {
+        flex-basis: 100%;
+        margin-top: 55px;
+    }
+    .sec3-col-left {
+        flex-basis: 100%;
+    }
+    .sec3-img1, .sec3-img4 {
+        width: 31%;
+    }
+    .sec3-img2, .sec3-img3 {
+        width: 23%;
+    }
+    .bfleft, .bfright {
+        flex-basis: 100%;
+    }
+    .chef {
+        flex-basis: 47%;
+        height: 359px;
+        overflow: hidden;
+        border-radius: 5px;
+        margin-bottom: 30px;
+    }
+    .chef:hover {
+        height: 100%;
+        transition: .5s;
+    }
+
+} 
+
+/* laptop view*/
+
+@media(max-width:768px){
+    .menu ul li {
+        display: none;
+    }
+    .menu {
+        flex-basis: 26%;
+    }
+    .sec1-row-1 {
+        padding-top: 35px;
+    }
+    .sec-col-1-left img {
+        width: 67%;
+    }
+    .header {
+      height: 100%;
+    }
+    .sec-2-col-1, .sec-2-col-2, .sec-2-col-3, .sec-2-col-4 {
+        flex-basis: 48%;
+        margin-top: 20px;
+       
+}
+.sec-1-bottom-left a {
+    margin-bottom: 30px;
+}
+.header-2 h1 {
+    font-size: 27px;
+}
+.sec3-col-left {
+    flex-basis: 43%;
+    margin-top: 97px;
+}
+.sec5-col-left {
+    flex-basis: 100%;
+   
+}
+.sec5-col-right {
+    flex-basis: 100%;
+    background-color: #0F172B;
+    padding: 47px;
+}
+
+.chef {
+    flex-basis: 48%;
+}
+.chef {
+    height: 384px;
+}
+    .chef:hover {
+        height: 429px;
+    }
+    .login {
+        width: 209px;
+    }
+    .mail {
+        width: 115px;
+    }
+
+    .submit {
+        width: 75px
+    }
+    .bfleft, .bfright {
+        flex-basis: 100%;
+    }
+    .menu ul li {
+        display: none;
+    }
+    .menu {
+        flex-basis: 26%;
+    }
+    .sec1-row-1 {
+        padding-top: 35px;
+    }
+    .sec-col-1-left img {
+        width: 67%;
+    }
+    .header {
+      height: 100%;
+    }
+    .sec-2-col-1, .sec-2-col-2, .sec-2-col-3, .sec-2-col-4 {
+        flex-basis: 48%;
+        margin-top: 20px;
+       
+}
+.sec-1-bottom-left a {
+    margin-bottom: 30px;
+}
+.header-2 h1 {
+    font-size: 27px;
+}
+.sec3-col-left {
+    flex-basis: 43%;
+    margin-top: 97px;
+}
+.sec5-col-left {
+    flex-basis: 100%;
+   
+}
+.sec5-col-right {
+    flex-basis: 100%;
+    background-color: #0F172B;
+    padding: 47px;
+}
+
+.chef {
+    flex-basis: 48%;
+}
+.chef {
+    height: 384px;
+}
+    .chef:hover {
+        height: 429px;
+    }
+    .login {
+        width: 209px;
+    }
+    .mail {
+        width: 115px;
+    }
+
+    .submit {
+        width: 75px
+    }
+    .bfleft,.bfright {
+        flex-basis: 100%;
+    }
+    .menu {
+        flex-basis: 39%;
+    }
+    .sec-col-1-left img {
+        width: 202%;
+    }
+    .sec-1-bottom-left {
+        flex-basis: 100%;
+        text-align: center;
+    }
+    .sec-1-bottom-right {
+        flex-basis: 100%;
+    }
+    .sec-1-bottom-right img {
+        width: 67%;
+    }
+    .header {
+        width: 100%;
+    }
+    .sec-1-bottom-right img {
+        display: block;
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-bottom: 33px;
+    }
+    .sec1-row-2 h1 {
+        color: white;
+        font-size: 47px;
+        font-weight: 800;
+    }
+    .sec-1-bottom-left p {
+        font-size: 17px;
+    }
+    .form-control {
+        width: 373px;
+    }
+    .btn2 {
+        width: 370px;
+    }
+    .sec3-col-left {
+        flex-basis: 100%;
+    }
+    .sec3-col-left {
+        padding-right: 0px;
+    }
+    .sec3-col-right {
+        flex-basis: 100%;
+    }
+    .chef {
+        height: 363px;
+    }
+    .chef:hover {
+        height: 100%;
+    }
+    .sec6-row p {
+        margin-bottom: 43px;
+    }
+    .com-1 {
+        flex-basis: 100%;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+        padding: 31px;
+        border-radius: 5px;
+        margin-top: 20px;
+    }
+}
+/* tablet view*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:576px){
+    .header{
+        width: 100vh;
+        height: 100%;
+    }
+    .menu ul li {
+        display: none;
+    }
+   
+     .menu {
+            flex-basis: 28%;
+        }
+    
+        .fle {
+            display: inline-block;
+            justify-content: space-between;
+            margin-right: 100px;
+            margin-left: 50px;
+        }
+        
+.btn {
+            padding: 11px 5px;
+            font-size: 9px;
+        }
+    
+    .sec-col-1-left img {
+        width: 100%;
+    }
+    .sec-1-bottom-left {
+        flex-basis: 100%;
+    }
+    .sec-1-bottom-right {
+        flex-basis: 100%;
+        text-align: center;
+        margin-bottom: 34px;
+    }
+    .sec1-row-2 h1 {
+        font-size: 45px;
+        text-align: center;
+    }
+    .sec-1-bottom-left p {
+        font-size: 15px;
+        text-align: center;
+    }
+    .sec-1-bottom-left a {
+        width: 113px;
+        font-size: 10px;
+        display: block;
+        margin: 0 auto;
+        margin-top: 30px;
+        margin-bottom: 20px;
+        padding: 12px 18px;
+    }
+    .sec-2-col-1, .sec-2-col-2, .sec-2-col-3, .sec-2-col-4 {
+        flex-basis: 100%;
+      
+        margin-top: 20px;
+    }
+    .sec3-col-left {
+        flex-basis: 100%;
+    }
+    .sec3-col-right {
+        flex-basis: 100%;
+        margin-top: 55px;
+    }
+    .header-2 h1 {
+        font-size: 26px;
+        margin-top: 10px;
+    }
+    .header-2 img {
+        margin-top: 13px;
+    }
+    .section4 h1 {
+        font-size: 31px;
+        width: 100%;
+    }
+    .flex p {
+        font-size: 13px;
+    }
+    .flex i {
+        font-size: 24px;
+        
+    }
+    .flex h6 {
+        font-size: 11px;
+    }
+    .food-menu {
+        border: none;
+        width: 100%;
+    }
+    .biriani {
+        width: 100%;
+    }
+    .bf{
+        width: 100%;
+    }
+    .sec5-col-left {
+        flex-basis: 100%;
+    }
+    .sec5-col-right {
+        flex-basis: 100%;
+    }
+    .form-control{
+        width: 245px;
+        padding: 19px;
+        
+    }
+    .btn2 {
+        width: 100%;
+    }
+    .section6 h1 {
+        font-size: 30px;
+    }
+    .chef {
+        flex-basis: 100%;
+        height: 291px;
+    }
+    .chef:hover {
+        height: 437px;
+    }
+    .chef:hover {
+        height: 338px;
+        transition: .5s;
+    }
+    .chef img {
+        width: 60%;
+    }
+    .com-1 {
+        flex-basis: 100%;
+        margin-top: 22px;
+    }
+    .sec-7-top{
+        width: 100%;
+    }
+    .comment1 {
+        width: 100%;
+    }
+    .yo-yo {
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+    .mail {
+        width: 96px;
+    }
+    .submit {
+        width: 72px;
+    }   
+    .sec-2{
+       width:  100%
+    }
+    .section3 {
+        margin-top: 100px;
+        width: 100%;
+    }
+    .section4 {
+        margin-top: 100px;
+        width: 100%;
+    }
+    .section5 {
+        margin-top: 70px;
+        width: 100%;
+    }
+    .section6 {
+        margin-top: 120px;
+        width: 100%;
+    }
+    .sec-7 {
+        padding-top: 60px;
+        width: 100%;
+    }
+    .footer{
+        width: 100%;
+    }
+    
+   
+    .sec-1-bottom-right {
+        flex-basis: 100%;
+      
+    }
+    
+    
+    
+   
+
+    .bfleft, .bfright {
+        flex-basis: 100%;
+    }
+
+.header{
+    width: 100%;
+}
+.sec5-col-right {
+    width: 100%;
+}
+.chef:hover {
+    height: 100%;
+    transition: .5s;
+}
+.sec6-row p {
+    margin-bottom: 86px;
+}
+.chef {
+    flex-basis: 100%;
+    height: 371px;
+}
+.sec-col-1-left {
+    flex-basis: 29%;
+}
+
+.menu {
+    flex-basis: 39%;
+}
+.btn a {
+    font-size: 10px;
+}
+.btn {
+    padding: 14px 8px;
+}
+}
+
+/* mobile view */
+
+
+@media(max-width:369px){
+    .btn2 {
+        width: 57%;
+    }
+    .form-control {
+        width: 166px;
+    }
+    .form-select {
+        width: 166px;
+    }
+    .input1 input, .input2 input, .input3 input{
+        width: 166px;
+    }
+    .menu {
+        flex-basis: 30%;
+    }
+    .sec-col-1-left img {
+        width: 239%;
+    }
+    .sec3-img2, .sec3-img3 {
+        width: 21%;
+    }
+    .sec3-img1 {
+        margin-right: 8px;
+    }
+    .mon {
+        margin-left: 130px;
+    }
+    .sec-col-1-left img {
+        width: 160%;
+    }
+    .menu {
+        flex-basis: 32%;
+    }
+    .btn {
+        padding: 13px 5px;
+    }
+    .btn a {
+        font-size: 9px;
+    }
+    
+}
